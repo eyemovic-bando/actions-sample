@@ -1,2 +1,2 @@
-reviewable:
-  - "**"
+reviewable: #ラベル名ここ
+  - "**" # 
